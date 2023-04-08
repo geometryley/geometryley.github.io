@@ -1,0 +1,17 @@
+.logo-img{
+width: 80px;
+}
+img{
+width: 100%;
+}
+footer{
+    background-color: rgb(42, 42, 42);
+padding-top: 30px;
+padding-bottom: 30px;
+margin-top: 50px;
+color: honeydew
+}
+.socio-link{
+    font-size: 1.5rem;
+    color: rgb(206, 206, 206)
+}
