@@ -1,0 +1,168 @@
+.head{
+  text-align: center;
+  padding: 40px;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgb(255, 255, 255)), url(head.jpg);
+}
+img{
+  width: 100%;
+  border: 5px solid rgb(202, 202, 202);
+  border-radius: 5px;
+}
+.navbar{
+  background-color: rgba(216, 191, 216, 0);
+
+}
+.kr{
+
+}
+.img1{
+  width: 450px;
+
+
+}
+.kr1{
+text-align: center;
+padding: 30px;
+
+
+}
+.kr2{
+  display: flex;
+  flex: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+
+}
+.on{
+  background-image: linear-gradient(to top, #ff111c, #f07400, #ccad00, #96d900, #ffffff);
+   padding-top: 60px;}
+.on1{
+  text-align: center;
+padding: 30px;
+
+}
+.on2{
+  display: flex;
+  flex: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+.nav-link:hover{
+  transition: 0.5s;
+;
+}
+img:hover{
+  transition: 0.5s;
+  transform: scale(1.005)
+}
+.vh{
+  background: linear-gradient(#ff000df1, rgba(0, 0, 255, 0), rgb(255, 255, 255)), url(bg2.jpg);
+  padding: 50px;
+}
+.vhp{
+  width: 500px;
+}
+.vhl{
+   display: flex;
+  flex: auto;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.obz{
+  align-items: center;
+  background-image: linear-gradient(to bottom, white, rgba(255, 0, 0, 0), #0066ff), url(bgggg.jpg); 
+
+}
+.obz1{
+  display: flex;
+  flex: auto;
+  justify-content: center;
+ 
+  padding: 50px;
+}
+.obz2{
+   display: flex;
+  flex: auto;
+  justify-content: center;
+  padding: 50px;
+  
+}
+.obz3{
+  padding: 50px;
+  text-align: center;
+}
+.obz4{
+    align-items: center;
+    background-image: linear-gradient(to bottom, #0066ff, rgba(255, 0, 0, 0), rgb(255, 51, 85)), url(bglvl.jpg); 
+    padding: 50px;
+
+
+
+}
+.obz5{
+ padding: 50px;
+
+ text-align: center;
+
+
+
+
+}
+.obz6{
+  padding: 50px;
+
+ }
+
+
+ .razv{
+  padding: 50px;
+  text-align: center;
+
+ }
+.razvimg{
+  width: 500px;
+}
+body{
+  font-family: 'Jost', sans-serif;
+  user-select: none;
+}
+.supp{
+  background-image: linear-gradient(to bottom, rgb(255, 51, 85), rgba(255, 0, 0, 0),rgb(0, 224, 0)), url(modbg.jpg); 
+  text-align: center;
+
+background-size: cover
+}
+.supp1{
+  padding: 50px;
+ 
+}
+.supp2{
+ 
+   padding: 50px;
+}
+.suppimg{
+  width: 500px;
+}
+.row{
+  align-items: center
+}
+.podv{
+  background-image: linear-gradient(to bottom, rgb(0, 224, 0), rgb(119, 70, 255), rgb(152, 255, 255) ), url(modbg.jpg); 
+
+padding: 50px;
+
+padding-top: 70px;
+
+}
+.podv2{
+padding-left: 40px;
+color: rgb(0, 0, 0);
+}
+.yra{color: rgb(0, 0, 0);}
+.yra:hover{
+  transition: 0.5s;
+  color: rgb(61, 61, 61);
+}
