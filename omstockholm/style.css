@@ -1,0 +1,442 @@
+.gd{
+    color: rgb(0, 255, 136);
+}
+.gd:hover{
+    transition: 0.5s;
+    color: rgb(0, 203, 108);
+}
+.daa{
+    color: rgb(255, 128, 0);
+}
+.daa:hover{
+    transition: 0.5s;
+    color: rgb(190, 95, 0);
+    
+}
+
+
+
+.ds{
+    color: blue;
+}
+.ds:hover{
+    transition: 0.5s;
+    color: rgb(0, 0, 207);
+    
+}
+.yt{
+    color: rgb(255, 0, 0);
+}
+.yt:hover{
+     transition: 0.5s;
+    color: rgb(224, 0, 0);
+    
+}
+.podvalunzora{
+    padding-top: 3%;
+    padding-bottom: 3%;
+ background-color: #ffffff;
+}
+body{
+    margin: 0;}
+
+html {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.mrgntp1{
+    margin-top: 10%;
+}
+.clr{
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.618);
+}
+a{
+    text-decoration: none;
+}
+.puti{
+    background-size: 700%;
+    background: linear-gradient( #1c1c34, #1c1c34a7, #1c1c34), url(omomomoom.jpg)
+    
+}  
+.mmrgn{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.zz{
+    font-size: 1.2 rem;
+}
+
+.more{
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6);
+}
+.read-more-wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.read-more-div, .more-text-header{
+    margin: 30px;
+    padding: 15px;
+    width: 450px;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-hide{
+    display: none;
+}
+.text-show{
+    display: inline;
+}
+.show-btn::before{
+    content: '🢗'; 
+   
+}
+.hide-btn::before{
+    content: ' 🢕 ';
+  
+}
+.div-5 {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+}
+.task-1{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+    background-color: #eee;
+    padding: 15px;
+}
+
+.aoi {
+    color: rgb(244, 18, 63);
+    text-decoration: none;
+}
+
+.aoi:hover {
+    transition: 0.5s;
+    color: rgb(205, 0, 0);
+}
+
+.wt5 {
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.618);
+    font-size: 2rem;
+}
+
+.wt4 {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.wt3 {
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.618);
+}
+
+.nxtmetro {
+background-color: #1c1c34;
+}
+
+.mtr {
+    margin-bottom: 5%;
+
+}
+
+.ao {
+    text-decoration: none;
+    color: rgb(169, 215, 255);
+}
+
+.ao:hover {
+    transition: 0.5s;
+    color: rgb(0, 76, 255);
+}
+
+.stats {
+    margin-left: 10%;
+    font-size: 1.3rem;
+    color: white;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.618);
+}
+
+.wt {
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.618);
+    font-size: 2rem;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.wt2 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+.wtsh {
+    text-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+
+.inv {
+    filter: invert(1);
+}
+
+.hitxt {
+    color: rgba(0, 0, 0, 0);
+}
+
+.ifrm1 {
+    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.166);
+}
+
+.idkwii {
+    margin-top: 40%;
+}
+
+.txtmp {
+    padding-top: 2%;
+}
+
+.txtr {
+    text-align: right;
+}
+
+.widthimg {
+    width: 100%;
+
+}
+
+.blackbg {
+    background-size: 110%;
+    background-position: top;
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), #1c1c34), url(blackbg.png)
+}
+
+.mdbimlzk {
+    color: rgb(245, 245, 245);
+}
+
+.sttxt2 {
+    color: rgb(92, 80, 117);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.618);
+    font-size: 4rem;
+}
+
+.sttxt1 {
+    color: rgb(236, 239, 255);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.618);
+    font-size: 4rem;
+}
+
+.centerobj {
+
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.fontt {
+
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+.fonttt {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.first {
+    padding: 5%;
+}
+
+.second {
+    padding: 5%;
+
+}
+
+.third {
+    padding: 5%;
+}
+
+.stockholmimgtop {
+    margin-top: 20px;
+    border: solid 3px rgba(0, 0, 0, 0.215);
+    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.416);
+}
+
+.stockholmimgtopimg {
+    padding: 5%;
+}
+
+.stockholmbg {
+    background: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.936), rgb(255, 255, 255)), url(Stockholmbg.jpg);
+}
+
+.stockholmbg2 {
+    background-image: url(Stockholmbg2.png);
+    background-size: cover;
+    background-position: bottom;
+
+}
+
+.imgclass {
+    width: 100%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.metro {
+    padding: 5%;
+}
+
+.long-slider {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    /* overflow: hidden; */
+    /* transform: translateX(); */
+}
+
+.arrow-left {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    z-index: 5;
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    transition: 0.8s;
+    font-size: 4em;
+}
+
+.arrow-right {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    z-index: 5;
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    transition: 0.8s;
+    font-size: 4em;
+}
+
+
+.arrow-right:hover {
+    cursor: pointer;
+    font-weight: 900
+}
+
+.arrow-left:hover {
+    cursor: pointer;
+    font-weight: 900
+}
+
+
+.arrow-right {
+    right: 0;
+}
+
+.item-wrap {
+    /* position: absolute; */
+    display: flex;
+    height: 300px;
+    transition: 0.7s ease-out;
+    max-width: 100%;
+    overflow: auto;
+    scroll-behavior: smooth;
+}
+
+.slider-item {
+    /* width: 450px; */
+    margin-left: 10px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+}
+
+.item-wrap img {
+    height: 100%;
+}
+
+
+
+/* Works on Chrome, Edge, and Safari */
+
+.item-wrap::-webkit-scrollbar {
+    height: 4px;
+    /* висота/ширина скрола */
+}
+
+.item-wrap::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0);
+    /*смужка */
+}
+
+.item-wrap::-webkit-scrollbar-thumb {
+    /*те, що їздить */
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    /* border: 3px solid rgb(163, 163, 163);  */
+}
+
+.item-wrap::-webkit-scrollbar-thumb:hover {
+    /*те, що їздить */
+    background-color: rgb(0, 0, 0);
+
+}
+
+/* Works on Firefox */
+.item-wrap {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(235, 235, 235);
+}
+
+
+.pdoduct-card {
+    padding: 20px;
+    margin-left: 20px;
+    width: 300px;
+    background-color: rgb(228, 228, 228);
+    transition: 0.8s;
+}
+
+.pdoduct-card:hover {
+    transform: scale(1.1);
+    background-color: rgb(247, 244, 244);
+
+}
+
+.tel-btn {
+    font-size: 1.1rem;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.tel-btn:hover {
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
